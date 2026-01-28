@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olofsson
+# 👋 Hi, I'm Linus Olofsson
 
 <div align="center">
   
