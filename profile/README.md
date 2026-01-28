@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Linus Olofsson
+#  Hi, I'm Linus Olofsson
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm a Cloud Specialist at **[Iver](https://www.iver.com/)**, where I blend my passion for automation and IT infrastructure to build scalable solutions. My journey with code began at age 13, and over the years, I've developed a deep love for creating systems that work seamlessly in the background.
 
@@ -22,14 +22,14 @@ Beyond the world of bits and bytes, I'm a passionate photographer who believes i
 
 🔗 **Explore my photography**: [imagesbyolofsson.se](https://imagesbyolofsson.se)
 
-## 💻 Technical Expertise
+##  Technical Expertise
 
-- **☁️ Cloud Infrastructure**: Designing and implementing scalable cloud solutions
-- **🤖 Automation**: Building systems that run themselves—because the best code is the code you don't have to touch
-- **🛠️ DevOps & CI/CD**: Streamlining development workflows and deployments
-- **📊 Infrastructure as Code**: Treating infrastructure with the same care as application code
+- ** Cloud Infrastructure**: Designing and implementing scalable cloud solutions
+- ** Automation**: Building systems that run themselves—because the best code is the code you don't have to touch
+- ** DevOps & CI/CD**: Streamlining development workflows and deployments
+- ** Infrastructure as Code**: Treating infrastructure with the same care as application code
 
-## 🎯 Philosophy
+##  Philosophy
 
 I believe in:
 - **Automation over repetition** — Let machines do what machines do best
@@ -37,7 +37,7 @@ I believe in:
 - **Continuous learning** — From that first line of code at 13 to today, the journey never stops
 - **Balance** — Finding harmony between the technical and the creative
 
-## 📫 Connect With Me
+##  Connect With Me
 
 Whether you want to discuss cloud architecture, share photography tips, or just chat about the intersection of technology and art, feel free to reach out!
 
