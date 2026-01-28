@@ -24,10 +24,10 @@ Beyond the world of bits and bytes, I'm a passionate photographer who believes i
 
 ##  Technical Expertise
 
-- ** Cloud Infrastructure**: Designing and implementing scalable cloud solutions
-- ** Automation**: Building systems that run themselves—because the best code is the code you don't have to touch
-- ** DevOps & CI/CD**: Streamlining development workflows and deployments
-- ** Infrastructure as Code**: Treating infrastructure with the same care as application code
+- **Cloud Infrastructure**: Designing and implementing scalable cloud solutions
+- **Automation**: Building systems that run themselves—because the best code is the code you don't have to touch
+- **DevOps & CI/CD**: Streamlining development workflows and deployments
+- **Infrastructure as Code**: Treating infrastructure with the same care as application code
 
 ##  Philosophy
 
