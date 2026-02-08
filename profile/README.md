@@ -20,7 +20,7 @@ But life isn't just about code and clouds—it's also about the **little moments
 
 Beyond the world of bits and bytes, I'm a passionate photographer who believes in finding beauty in the everyday. Whether it's the play of light on a city street, the quiet moment before dawn, or the subtle expressions that tell a story, I strive to capture the essence of life's fleeting moments.
 
-🔗 **Explore my photography**: [imagesbyolofsson.se](https://imagesbyolofsson.se)
+🔗 **Explore my photography**: [imagesbyolofsson.se](https://site.imagesbyolofsson.se/)
 
 ##  Technical Expertise
 
